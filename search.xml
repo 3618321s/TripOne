@@ -859,16 +859,11 @@
 <tr>
 <td align="center"></td>
 <td align="center">水里蛇窯</td>
-<td align="center">門票120元<br>手拉坯380元</td>
-</tr>
-<tr>
-<td align="center">冰品</td>
-<td align="center">埔里遊客中心</td>
-<td align="center"></td>
+<td align="center">門票120元<br>手拉坯380元<br>運費150元</td>
 </tr>
 <tr>
 <td align="center">午餐</td>
-<td align="center">埔里</td>
+<td align="center">水里老擔</td>
 <td align="center"></td>
 </tr>
 <tr>
@@ -884,7 +879,7 @@
 <tr>
 <td align="center"></td>
 <td align="center">翠湖步道</td>
-<td align="center"></td>
+<td align="center">天氣不佳取消</td>
 </tr>
 <tr>
 <td align="center"></td>
@@ -923,7 +918,7 @@
 <tr>
 <td align="center">上午</td>
 <td align="center">青青草原</td>
-<td align="center"></td>
+<td align="center">馬術秀10:45</td>
 </tr>
 <tr>
 <td align="center">午餐</td>
@@ -931,51 +926,13 @@
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center">下午</td>
-<td align="center">多肉秘境</td>
-<td align="center"></td>
-</tr>
-<tr>
 <td align="center">回家</td>
 <td align="center">斗六車站</td>
-<td align="center">區間 3247 17:13~18:22</td>
+<td align="center">區間 3247 16:14~18:02</td>
 </tr>
 </tbody></table>
-<h2 id="交通工具：汽車"><a href="#交通工具：汽車" class="headerlink" title="交通工具：汽車"></a>交通工具：汽車</h2><h3 id="油資計算與停車費用"><a href="#油資計算與停車費用" class="headerlink" title="油資計算與停車費用"></a>油資計算與停車費用</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">總公里數 <span class="string">&quot;170&quot;</span></span><br><span class="line">油耗算 <span class="string">&quot;9.69&quot;</span></span><br><span class="line">油價 <span class="string">&quot;31&quot;</span></span><br><span class="line">170/8*31 = <span class="string">&quot;658.75&quot;</span> </span><br><span class="line">658.75+60 = <span class="string">&quot;718.75&quot;</span> (加上停車費)</span><br><span class="line">直接算<span class="string">&quot;720&quot;</span>元</span><br><span class="line">720/3 = <span class="string">&quot;180&quot;</span> <span class="string">&quot;(一個人180元)&quot;</span></span><br></pre></td></tr></table></figure>
-<h2 id="總費用"><a href="#總費用" class="headerlink" title="總費用"></a>總費用</h2><table>
-<thead>
-<tr>
-<th align="center">資訊</th>
-<th align="center">項目</th>
-<th align="center">金額</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">隆田&gt;二水</td>
-<td align="center">火車去程</td>
-<td align="center">元</td>
-</tr>
-<tr>
-<td align="center">斗六&gt;隆田</td>
-<td align="center">火車回程</td>
-<td align="center">元</td>
-</tr>
-<tr>
-<td align="center">Zinger</td>
-<td align="center">油資</td>
-<td align="center">元</td>
-</tr>
-<tr>
-<td align="center">見晴花園度假山莊</td>
-<td align="center">住宿</td>
-<td align="center">2066元</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">總計</td>
-<td align="center">元</td>
-</tr>
-</tbody></table>
+<h2 id="交通工具：汽車"><a href="#交通工具：汽車" class="headerlink" title="交通工具：汽車"></a>交通工具：汽車</h2><h3 id="油資計算與停車費用"><a href="#油資計算與停車費用" class="headerlink" title="油資計算與停車費用"></a>油資計算與停車費用</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">總公里數 <span class="string">&quot;230&quot;</span></span><br><span class="line">油耗算 <span class="string">&quot;9.69&quot;</span></span><br><span class="line">油價 <span class="string">&quot;30.6&quot;</span></span><br><span class="line">726/3 = <span class="string">&quot;242&quot;</span> <span class="string">&quot;(一個人242元)&quot;</span></span><br></pre></td></tr></table></figure>
+
 <h3 id="住宿費用"><a href="#住宿費用" class="headerlink" title="住宿費用"></a>住宿費用</h3><table>
 <thead>
 <tr>
@@ -1003,6 +960,70 @@
 <td align="center"></td>
 <td align="center">一人</td>
 <td align="center">2066.67元</td>
+</tr>
+</tbody></table>
+<h2 id="總費用"><a href="#總費用" class="headerlink" title="總費用"></a>總費用</h2><table>
+<thead>
+<tr>
+<th align="center">資訊</th>
+<th align="center">項目</th>
+<th align="center">金額</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">隆田&gt;二水</td>
+<td align="center">火車去程</td>
+<td align="center">111元</td>
+</tr>
+<tr>
+<td align="center">斗六&gt;隆田</td>
+<td align="center">火車回程</td>
+<td align="center">88元</td>
+</tr>
+<tr>
+<td align="center">Zinger</td>
+<td align="center">油資</td>
+<td align="center">242元</td>
+</tr>
+<tr>
+<td align="center">水里蛇窯</td>
+<td align="center">門票</td>
+<td align="center">120元</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">手拉坏</td>
+<td align="center">435元</td>
+</tr>
+<tr>
+<td align="center">水里老擔</td>
+<td align="center">麻醬麵豬血湯米腸</td>
+<td align="center">88元</td>
+</tr>
+<tr>
+<td align="center">青青草原</td>
+<td align="center">門票</td>
+<td align="center">200元</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">停車費</td>
+<td align="center">67元</td>
+</tr>
+<tr>
+<td align="center">蘇媽媽湯圓</td>
+<td align="center">餛飩麵甜湯圓</td>
+<td align="center">115元</td>
+</tr>
+<tr>
+<td align="center">見晴花園度假山莊</td>
+<td align="center">住宿</td>
+<td align="center">2066元</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">總計</td>
+<td align="center">3532元</td>
 </tr>
 </tbody></table>
 <p>這趟旅程 從五一勞動節之前就計畫 結果因為疫情大爆發 延到六月底<br>再來是比澤爾確診 改期到九月初 因為颱風關係 又要延期到11&#x2F;5了</p>
